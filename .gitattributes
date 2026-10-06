@@ -1,0 +1,3 @@
+# Keep GitHub's language statistics honest: the bundled test framework is not "our" C.
+c/third_party/** linguist-vendored
+* text=auto eol=lf
